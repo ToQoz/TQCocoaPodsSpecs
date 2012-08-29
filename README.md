@@ -1,0 +1,1 @@
+My CocoaPods' podspec repository.
